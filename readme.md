@@ -6,6 +6,6 @@ To demonstrate, I created an example method using the library to create a rainbo
 
 > c$ ('.content').rainbow();
 
-![](src/assets/sample-output.gif)
+![](sample-output.gif)
 
 Enjoy!
